@@ -1,4 +1,0 @@
-10 / 0 - нельзя ЦЕЛОЕ число разделить на 0. Получается Floating point exception. Infinity and -Infinity
-
-0.0 / 0.0	- NaN или -NaN    nan или -nan    Not-a-Number, "не число"
-√-1 		- NaN или -NaN    nan или -nan    Not-a-Number, "не число"
