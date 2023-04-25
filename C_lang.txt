@@ -2,3 +2,5 @@
 
 0.0 / 0.0	- NaN или -NaN    nan или -nan    Not-a-Number, "не число"
 √-1 		- NaN или -NaN    nan или -nan    Not-a-Number, "не число"
+
+
